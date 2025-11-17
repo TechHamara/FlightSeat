@@ -1,0 +1,120 @@
+<div align="center">
+<h1><kbd>🧩 FlightSeat</kbd></h1>
+An extension for MIT App Inventor 2.<br>
+Flight Seat Selection View - Developed by TechHamara using Fast.<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
+</div>
+
+## 📝 Specifications
+* **
+📦 **Package:** io.th.flightseat
+💾 **Size:** 32.76 KB
+⚙️ **Version:** 1.0
+📱 **Minimum API Level:** 7
+📅 **Updated On:** [date=2025-11-17 timezone="Asia/Calcutta"]
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+
+## <kbd>Events:</kbd>
+**FlightSeat** has total 2 events.
+
+### SeatTapped
+Event raised when a seat is tapped/selected by the user.
+
+| Parameter | Type
+| - | - |
+| row | number
+| column | number
+
+### MaxSelectionReached
+Event raised when the maximum selection limit is reached.
+
+## <kbd>Methods:</kbd>
+**FlightSeat** has total 9 methods.
+
+### Initialize
+Initialize the FlightSeat view inside an arrangement (HorizontalArrangement or VerticalArrangement).
+
+| Parameter | Type
+| - | - |
+| arrangement | component
+
+### StartAnimation
+Start the zoom in animation to show the seat map.
+
+### StopAnimation
+Start the zoom out animation to hide the seat map.
+
+### SeatSelected
+Set a seat as selected at the given row and column (0-indexed).
+
+| Parameter | Type
+| - | - |
+| row | number
+| column | number
+
+### RemoveSeatSelected
+Remove a seat from selected at the given row and column (0-indexed).
+
+| Parameter | Type
+| - | - |
+| row | number
+| column | number
+
+### ClearSelectedSeats
+Clear all selected seats.
+
+### ClearSelectingSeats
+Clear all selecting (temporarily selected) seats.
+
+### GetSelectedSeats
+Get the list of selected seats as a list of strings in format 'row#column'.
+
+* Return type: `list`
+
+### GetSelectingSeats
+Get the list of currently selecting (temporarily selected) seats as a list of strings in format 'row#column'.
+
+* Return type: `list`
+
+## <kbd>Setters:</kbd>
+**FlightSeat** has total 6 setter properties.
+
+### GoToCabinPosition
+Navigate to a cabin position. Position can be 'Top', 'Middle', or 'Last'.
+
+* Input type: `text`
+* Helper type: `PositionType`
+* Helper enums: `Top`, `Middle`, `Last`
+
+### MaxSelectStates
+Maximum number of seats that can be selected at once.
+
+* Input type: `number`
+
+### PlaneBackgroundColor
+Set the background color of the plane area.
+
+* Input type: `number`
+
+### PlaneOutlineColor
+Set the outline color of the plane body.
+
+* Input type: `number`
+
+### PlaneTailColor
+Set the tail color of the plane.
+
+* Input type: `number`
+
+### PlaneCabinColor
+Set the cabin color of the plane interior.
+
+* Input type: `number`
+
+## <kbd>Getter:</kbd>
+**FlightSeat** has total 1 getter property.
+
+### MaxSelectStates
+Maximum number of seats that can be selected at once.
+
+* Return type: `number`
+
