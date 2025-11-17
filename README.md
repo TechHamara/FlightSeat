@@ -6,13 +6,13 @@ Flight Seat Selection View - Developed by TechHamara using Fast.<a href='https:/
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.flightseat
-💾 **Size:** 32.76 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-11-17 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
-**Library Used** Thank you **ldoublem** for your [FlightSeat](https://github.com/ldoublem/FlightSeat) library.
+📦 **Package:** io.th.flightseat<br>
+💾 **Size:** 32.76 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-11-17 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
+**Library Used** Thank you **ldoublem** for your [FlightSeat](https://github.com/ldoublem/FlightSeat) library.<br>
 
 ## Blocks
 
