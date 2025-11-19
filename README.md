@@ -16,7 +16,8 @@ Flight Seat Selection View - Developed by TechHamara using Fast.<br> <a href='ht
 
 ## Demo
 
-https://raw.githubusercontent.com/TechHamara/FlightSeat/refs/heads/main/blocks.png?token=GHSAT0AAAAAAC3EHEPEM6LS65JEHVN6E2VQ2I5WBHQ
+![Flight-demo-blocks.png](https://github.com/user-attachments/assets/1297926d-3d4e-4bd7-9afc-333e56b9e910)
+
 
 ![Flight1.gif](https://github.com/user-attachments/assets/3f8f42ee-7be9-424c-96db-3899d3b654b3)
 
