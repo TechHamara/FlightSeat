@@ -12,7 +12,8 @@ Flight Seat Selection View - Developed by TechHamara using Fast.<br> <a href='ht
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-11-17 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small><br>
-**Library Used** Thank you **ldoublem** for your [FlightSeat](https://github.com/ldoublem/FlightSeat) library.<br>
+⬇️ **Get Aix:** [here](https://buymeacoffee.com/techhamara/e/480550)<br>
+🪧**Library Used** Thank you **ldoublem** for your [FlightSeat](https://github.com/ldoublem/FlightSeat) library.<br>
 
 ## Demo
 
